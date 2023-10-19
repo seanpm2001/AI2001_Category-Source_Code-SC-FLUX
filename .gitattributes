@@ -49,22 +49,10 @@
 *.Rmd linguist-detectable=true
 *.Rmd linguist-documentation=false
 *.Rmd linguist-language=RMarkdown
-# Forth source file
-*.4th linguist-detectable=true
-*.4th linguist-documentation=false
-*.4th linguist-language=Forth
-*.f linguist-detectable=true
-*.f linguist-documentation=false
-*.f linguist-language=Forth
-*.fs linguist-detectable=true
-*.fs linguist-documentation=false
-*.fs linguist-language=Forth
-*.forth linguist-detectable=true
-*.fth linguist-detectable=true
-*.fth linguist-documentation=false
-*.fth linguist-language=Forth
-*.forth linguist-documentation=false
-*.forth linguist-language=Forth
+# FLUX source file
+*.fx linguist-detectable=true
+*.fx linguist-documentation=false
+*.fx linguist-language=FLUX
 # Makefile (GNU Make)
 *.mk linguist-detectable=true
 *.mk linguist-documentation=false
@@ -199,7 +187,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2023, Thursday, October 19th at 2:23 pm PST)
-# Line count (including blank lines and compiler line): 206
+# File version: 5 (2023, Thursday, October 19th at 2:24 pm PST)
+# Line count (including blank lines and compiler line): 194
 
 # End of script
